@@ -20,8 +20,8 @@ This project is a Python-based web scraper that uses Selenium to extract informa
 - Clone the repository:
 
 ```
-git clone https://github.com/arnavgaur04/Selenium1_Booking
-cd Selenium1_Booking
+git clone https://github.com/arnavgaur04/BookingBot
+cd BookingBot
 ```
 
 - Download and install ChromeDriver according to your browser.
